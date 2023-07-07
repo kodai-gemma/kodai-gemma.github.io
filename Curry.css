@@ -1,0 +1,227 @@
+.headerbar {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    left: 0;
+    width: 100%;
+    padding: 20px 40px;
+    background: black;
+    color: white;
+    box-sizing: border-box;
+    font-size: 250%
+}
+
+.infinite-slider .swiper-wrapper {
+    transition-timing-function: linear;
+}
+
+/* スライド */
+.infinite-slider .swiper-slide {
+    height: 320px !important;
+    /* 高さを指定 */
+    width: auto !important;
+}
+
+/* スライド内の画像 */
+.infinite-slider .swiper-slide img {
+    width: auto;
+    height: 100%;
+}
+
+.AAA{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+.btn-primary {
+
+  padding: 10px 25px;
+
+  font-family: "Roboto", sans-serif;
+
+  font-weight: 1400;
+
+  background: transparent;
+
+  outline: none !important;
+
+  cursor: pointer;
+
+  transition: all 0.3s ease;
+
+  position: relative;
+
+  display: inline-block;
+
+  margin-top: 80px;
+
+  width: 300px;
+
+  height: 130px;
+
+  font-size: 250%;
+
+  font-family: "Times New Roman";
+
+   background-color:black; /* 背景色 */
+
+  box-shadow: 0 5px 0 black; /* 影の太さ・色 */
+
+  color: #FFFFFF;
+  
+ 
+
+
+}
+
+.btn-primary>a{
+    color: #FFFFFF;
+    
+    text-decoration: none;
+}
+
+.btn-primary:hover {
+  box-shadow: none;
+  transform: translateY(8px);
+}
+
+/* クリック時 */
+.btn-primary:active {
+  box-shadow: none;
+  transform: translateY(8px);
+}
+
+#footer {
+    border-top: solid 1px lightgray;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    font-family: sans-serif, serif, monospace;
+}
+
+#footer ul {
+    text-align: center;
+}
+
+#footer ul li {
+    left: 50%;
+    padding: 20px;
+    margin: auto;
+    display: inline;
+}
+
+#footer p {
+    text-align: center;
+    
+}
+
+
+#spo{
+    margin-top: 300px;
+    background-color: crimson;
+    font-size: 330%;
+    font-family: 'Times New Roman';
+    box-shadow: 0 5px 0 black; 
+}    
+.pr{
+    margin-top: 22px;
+    margin-left: 2%;
+    
+}
+
+#ponzu{
+    background-color: crimson;
+    margin-top: 60px;
+    font-family:"Times New Roman", "游ゴシック";
+    box-shadow: 0 5px 0 black;
+}
+
+#slo{
+    font-family: "游ゴシック";
+    margin-top: 90px;
+    margin-left: 360px;
+    
+    
+}
+
+#pic{
+    margin-right: 60px;
+
+}
+
+h3{
+    font-family: "Times New Roman";
+    margin-left: 41%;
+    color:black;
+    font-size: 185%;
+    
+}
+
+.ret{
+    font-family:"Times New Roman","游ゴシック";
+    margin-top: 200px;
+   
+}
+
+#rett{
+    margin-left: 30px;
+}
+
+
+
+.sports{
+    padding: 0px;
+    margin-top: 230px;
+    box-shadow: 0 5px 0 black;
+}
+
+.reet{
+    margin-left: 33%;
+}
+
+.reet2{
+    margin-left: 17%;
+}
+
+.gest{
+    margin-top: 20%;
+    margin-left: 30%;
+    font-size: 140%;
+}
+
+#sei{
+    margin-left: 8%;
+}
+
+.kotira{
+    /* text-decoration: none; */
+    color: black;
+}
+
+.ftr{
+text-decoration: none;
+ color: black;
+ font-family: sans-serif, serif, monospace;
+
+}
+
+#last{
+        font-family: sans-serif, serif, monospace;
+}
+
+.kotira2{
+    text-decoration: none;
+        color: white
+    }
+
+        .kokodayo {
+            /* text-decoration: none; */
+            color: black;
+            font-family: "Times New Roman", "游ゴシック";
+        }
+    
+        .modoruyo {
+            margin-top: 150px;
+        }
